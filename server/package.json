@@ -13,5 +13,10 @@
     "mongodb"
   ],
   "author": "Dominic Idagu",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.8.0",
+    "graphql": "^14.3.0"
+  }
 }
